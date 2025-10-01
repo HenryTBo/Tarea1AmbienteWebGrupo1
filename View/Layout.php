@@ -52,6 +52,7 @@ function showMenu(){
                                             <a class="nav-link" href="InicioSesion.php">Login</a> 
                                             <a class="nav-link" href="register.php">Registro</a>
                                             <a class="nav-link" href="password.html">Olvido Contraseña</a>
+
                                         </nav>
                                     </div>
                                     <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">

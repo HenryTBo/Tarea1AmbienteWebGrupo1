@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Register - SB Admin</title>
+        <title>Registro - SB Admin</title>
         <link href="../css/style.css" rel="stylesheet" />
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
     </head>
@@ -25,7 +25,7 @@
                                                 <div class="col-md-6">
                                                     <div class="form-floating mb-3 mb-md-0">
                                                         <input class="form-control" id="inputFirstName" type="text" placeholder="Enter your first name" />
-                                                        <label for="inputFirstName">Primer Nombre</label>
+                                                        <label for="inputFirstName">Nombre</label>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
@@ -38,6 +38,7 @@
                                             <div class="form-floating mb-3">
                                                 <input class="form-control" id="inputEmail" type="email" placeholder="name@example.com" />
                                                 <label for="inputEmail">Correo Electronico</label>
+
                                             </div>
                                             <div class="row mb-3">
                                                 <div class="col-md-6">
