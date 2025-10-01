@@ -1,4 +1,4 @@
 <?php
-  header("Location: View/Inicio/Principal.php");
+  header("Location: View/Inicio/InicioSesion.php");
   exit;
 ?>
