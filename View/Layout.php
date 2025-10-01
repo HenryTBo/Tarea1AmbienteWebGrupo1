@@ -5,7 +5,10 @@ function showMenu(){
     <body class="sb-nav-fixed">
         <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
             <!-- Navbar Brand-->
-            <a class="navbar-brand ps-3" href="index.php">Tarea 1</a>
+            <a class="navbar-brand ps-3" href="Principal.php">
+            <img src="../img/Logo_Empresa.jpg" alt="Logo" style="height:30px; width:auto; margin-right:8px;">
+
+            Distribuidora J.J</a>
             <!-- Sidebar Toggle-->
             <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
             <!-- Navbar Search-->
@@ -55,10 +58,6 @@ function showMenu(){
 
                                         </nav>
                                     </div>
-                                    <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#pagesCollapseError" aria-expanded="false" aria-controls="pagesCollapseError">
-                                        Error
-                                        <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
-                                    </a>
                                 </nav>
                             </div>
                         </div>
