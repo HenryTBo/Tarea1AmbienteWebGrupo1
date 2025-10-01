@@ -40,7 +40,7 @@
                                         </form>
                                     </div>
                                     <div class="card-footer text-center py-3">
-                                        <div class="small"><a href="register.php">Necesitas una cuenta? Registrate!</a></div>
+                                        <div class="small"><a href="Registro.php">Necesitas una cuenta? Registrate!</a></div>
                                     </div>
                                 </div>
                             </div>

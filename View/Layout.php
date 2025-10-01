@@ -50,7 +50,7 @@ function showMenu(){
                                     <div class="collapse" id="pagesCollapseAuth" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordionPages">
                                         <nav class="sb-sidenav-menu-nested nav">
                                             <a class="nav-link" href="InicioSesion.php">Login</a> 
-                                            <a class="nav-link" href="register.php">Registro</a>
+                                            <a class="nav-link" href="Registro.php">Registro</a>
                                             <a class="nav-link" href="password.html">Olvido Contraseña</a>
 
                                         </nav>
